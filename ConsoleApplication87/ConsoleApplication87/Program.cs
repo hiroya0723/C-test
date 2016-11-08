@@ -10,7 +10,7 @@ namespace ConsoleApplication87
     {
         static void Main(string[] args)
         {
-            Console.Write("hello");
+            Console.Write("hello-notepc");
         }
     }
 }
